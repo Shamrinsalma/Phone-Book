@@ -1,4 +1,4 @@
-Phone-Book
+PHONE-BOOKPhone-Book
 This is a Python program that implements a simple phonebook application using a MySQL database. Here's a breakdown of the code:
 
 Importing the pymysql library
